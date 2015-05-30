@@ -16,10 +16,12 @@
 * [All About Angular 2.0 (Rob Eisenberg)](http://eisenbergeffect.bluespire.com/all-about-angular-2-0/)
 * [Getting Started with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/getting-started-with-angular-2-0/) *Great line by line introduction*
 * [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
+* [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
 
 ### Angular 2 Explained
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
+* [Angular 2 Template Syntax (Victor Savkin)](http://victorsavkin.com/post/119943127151/angular-2-template-syntax)
 * [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 * [Functional Programming in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/108837493941/better-support-for-functional-programming-in)
@@ -40,7 +42,7 @@
 
 ### Angular 2 Integrations
 * [Netflix: FalcorJS + Angular2 (gdi2290)](https://youtu.be/z8UgDZ4rXBU)
-* [Angular2-Meteor](http://angularjs.meteor.com/angular2)
+* [Angular2-Meteor](http://angular-meteor.com/angular2)
 
 ### Tutorials
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
@@ -65,7 +67,7 @@
 * [Slush: slush-angular2 (Ryan Usumi)](https://www.npmjs.com/package/slush-angular2)
 * [slush-ng2-play](https://www.npmjs.com/package/slush-ng2-play) *Generator of minimum Angular2 with ES6, based on ng2-play from pkozlowski-opensource*
 * [Plunkr: Angular 2 + ES6 Template](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
-* [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](http://plnkr.co/edit/QZ6c6cRnvOyQ71FkowZO?p=preview)
+* [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](https://github.com/angular-class/angular2-webpack-starter)
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -92,6 +94,10 @@
 * [Working with Angular 2](http://stackoverflow.com/questions/29050752/working-with-angular-2)
 * [How to Import the HTTP module](http://stackoverflow.com/questions/28910864/angular-2-how-to-use-import-the-http-module)
 * [How to Import Immutable.js](http://stackoverflow.com/questions/29527024/how-do-i-import-immutable-js-into-angular-2-alpha)
+
+### Classes
+* [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+* [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
