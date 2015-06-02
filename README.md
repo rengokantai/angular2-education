@@ -17,6 +17,7 @@
 * [Getting Started with Angular 2.0 (Arvind Ravulavaru)](http://thejackalofjavascript.com/getting-started-with-angular-2-0/) *Great line by line introduction*
 * [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
 * [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
+* [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
 
 ### Angular 2 Explained
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
@@ -113,3 +114,9 @@
 * [Angular2 Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [Angularjs on Google+](https://plus.google.com/u/0/+AngularJS/posts)
 * [/r/Angular2 on Reddit](http://www.reddit.com/r/Angular2)
+
+### Angular 2 Dart
+* [Angular2 Dart API cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
+* [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+* [Angular2 Dart Gnome Tutorial app](https://github.com/sanfordredlich/AngularDartGnomeTutorial)
+* [Angular2 Dart Router demo](https://github.com/rkirov/angular2-dart-router-demo/tree/master/angular2)
