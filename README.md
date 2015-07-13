@@ -37,6 +37,10 @@
 * [The difference between Annotations and Decorators (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 * [Video: Data binding in Angular 2 (Misko Hevery)](https://angularu.com/Video/2015sf/misko-hevery-talks-about-databinding-in-angular-2)
 * [Dependency Injection in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
+* [Angular 2 Server Rendering (gdi2290 and Jeff Whelpley)](https://angularu.com/VideoSession/2015sf/angular-2-server-rendering)
+* [Shadow DOM Strategies in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
+* [Routing in Angular 2](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
+
 
 ### Angular 2 Docs
 * [Angular 2 Docs](https://angular.io/docs/js/latest/)
@@ -56,12 +60,15 @@
 * [An Introduction to Angular 2 (Jesus Rodriguez)](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/)
 * [Video: Getting started with Angular 2 developer preview](https://www.youtube.com/watch?v=HmWm21cCAXM)
 * [Video: Creating d3 components with Angular2 and TypeScript (gdi2290 and Aysegul Yonet)](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
+* [Video: Migrating an Angular 1.x app to Angular 2 (David East)](https://angularu.com/VideoSession/2015sf/migrating-to-angular2)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+* [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
 
 ### Boilerplates
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
+* [Github: ng2-play (Roland Groza)](https://github.com/rolandjitsu/ng2-play)
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
 * [Github: Angular2 Sandbox (Gion Kunz)](https://github.com/gionkunz/angular2-sandbox)
 * [Yeoman: generator-angular2 (Chris Wheatley)](https://www.npmjs.com/package/generator-angular2)
