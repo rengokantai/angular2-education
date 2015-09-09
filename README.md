@@ -1,8 +1,8 @@
 # ![AngularJS](https://angular.io/resources/images/logos/standard/shield-large.png)
 
-#### *A curated list of helpful material to get started with education on Angular 2*
+#### *A curated list of helpful material to start learning Angular 2*
 
-##### Current Angular 2 version: 
+##### Current Angular 2 version:
 [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
 ### Introduction
@@ -39,8 +39,14 @@
 * [Shadow DOM Strategies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
 * [Routing in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
 * [Styling Angular 2 Components (Pascal Precht)](http://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
+* [Event better ES5 code for Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
+* [Angular 2 Template Syntax Demystified - Part 1 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+* [Introduction to Angular 2 – The fundamentals of Components (Aleksey Novik)](http://www.webcodegeeks.com/javascript/angular-js/introduction-angular-2-fundamentals-components/)
+* [Host and Visibility in Angular 2's Dependency Injection (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
+* [Angular 2 Cheat Sheet (WIP)](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
 
 ### Angular 2 Forms
+* [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
 * [Forms in Angular 2 (Victor Savkin)](http://angularjs.blogspot.co.uk/2015/03/forms-in-angular-2.html)
 * [Angular 2 Forms (David East)](https://ngforms.firebaseapp.com/#/)
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
@@ -54,6 +60,7 @@
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 
 ### Tutorials
+* [Video: AngularJS 2.0 Overview - ToDo Application in 20 minutes](https://www.youtube.com/watch?v=rd3cLh_wn04)
 * [Video: An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)
 * [Creating a Super Simple Todo app Using Angular 2 (Sandeep Panda)](http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial)
 * [Developing A Tabs Component in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
@@ -65,6 +72,7 @@
 * [Video: Getting started with Angular 2 developer preview](https://www.youtube.com/watch?v=HmWm21cCAXM)
 * [Video: Creating d3 components with Angular2 and TypeScript (gdi2290 and Aysegul Yonet)](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
 * [Video: Migrating an Angular 1.x app to Angular 2 (David East)](https://angularu.com/VideoSession/2015sf/migrating-to-angular2)
+* [recursive treeview in angular 2.0 (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
@@ -82,6 +90,7 @@
 * [Github: Angular2 + Webpack + TypeScript (gdi2290 AngularClass)](https://github.com/angular-class/angular2-webpack-starter)
 * [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/ziaukhan/learn-angular2)
 * [Github: Angular2 Seed TypeScript (Minko Gechev)](https://github.com/mgechev/angular2-seed)
+* [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -99,6 +108,7 @@
 * [Angular Reading Position Indicator](https://github.com/mrzepinski/angular-rpi)
 * [d3 directives from Angular 1 to Angular 2 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3)
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
+* [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](http://shlomiassaf.github.io/angular2-modal/)
 
 
 ### Live Code Experiments
@@ -114,6 +124,9 @@
 ### Classes
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
+
+### Books
+* [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
