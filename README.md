@@ -20,6 +20,8 @@
 * [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
 
 ### Angular 2 Explained
+
+* **[Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)**
 * [Two Phases of Angular 2 Applications (Victor Savkin)](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
 * [Angular 2 Template Syntax (Victor Savkin)](http://victorsavkin.com/post/119943127151/angular-2-template-syntax)
 * [Change Detection in Angular 2 (Victor Savkin)](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
@@ -44,6 +46,11 @@
 * [Introduction to Angular 2 – The fundamentals of Components (Aleksey Novik)](http://www.webcodegeeks.com/javascript/angular-js/introduction-angular-2-fundamentals-components/)
 * [Host and Visibility in Angular 2's Dependency Injection (Pascal Precht)](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
 * [Angular 2 Cheat Sheet (WIP)](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
+* [Forward References in Angular 2 (Christoph Burgdorf)](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+* [Resolving Service Dependencies in Angular 2 (Pascal Precht)](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
+* [Angular 2: Event Emitters(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-event-emitters/)
+* [Angular 2: Properties(Shawn Mckay)](http://www.shmck.com/a-quick-look-at-angular-2-properties/)
+* [Angular 2: Pipes(Shawn Mckay)](http://www.shmck.com/angular-2-pipes/)
 
 ### Angular 2 Forms
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
@@ -73,14 +80,19 @@
 * [Video: Creating d3 components with Angular2 and TypeScript (gdi2290 and Aysegul Yonet)](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
 * [Video: Migrating an Angular 1.x app to Angular 2 (David East)](https://angularu.com/VideoSession/2015sf/migrating-to-angular2)
 * [recursive treeview in angular 2.0 (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0)
+* [How to publish a library for Angular 2 on npm (Olivier Combe)](https://medium.com/@OCombe/how-to-publish-a-library-for-angular-2-on-npm-5f48cdabf435)
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [Simple Example Components: TreeView, Grid, Input Values and Bindings, Core Directives, How to ignore view bindings (Torgeir Helgevold)](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
+* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 bootstrap components
+* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use Angular2 directives for file upload
+* [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+* [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 
 ### Boilerplates
 * [Github: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play)
-* [Github: ng2-play (Roland Groza)](https://github.com/rolandjitsu/ng2-play)
+* [Github: ng2-lab (Roland Groza)](https://github.com/rolandjitsu/ng2-lab)
 * [Github: Angular2 Babel App](https://github.com/shuhei/babel-angular2-app)
 * [Github: Angular2 Sandbox (Gion Kunz)](https://github.com/gionkunz/angular2-sandbox)
 * [Yeoman: generator-angular2 (Chris Wheatley)](https://www.npmjs.com/package/generator-angular2)
@@ -91,6 +103,7 @@
 * [Github: Angular2 + TypeScript in baby steps (Zia Khan)](https://github.com/ziaukhan/learn-angular2)
 * [Github: Angular2 Seed TypeScript (Minko Gechev)](https://github.com/mgechev/angular2-seed)
 * [Github: Angular2 Minimalist Starter (Roger Padilla)](https://github.com/rogerpadilla/angular2-minimalist-starter)
+* [Github: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 
 ### Example Apps
 * [ng2do (David East)](https://github.com/davideast/ng2do)
@@ -109,6 +122,8 @@
 * [d3 directives from Angular 1 to Angular 2 (gdi2290)](https://github.com/gdi2290/ng-vegas-angular2-d3)
 * [Angular 2 Carousel component with Bootstrap](https://github.com/mlaval/angular2-bootstrap)
 * [Angular 2 Bootstrap Style Modal (Shlomi Assaf)](http://shlomiassaf.github.io/angular2-modal/)
+* [Chat Application using RxJS (ng-book)](https://github.com/ng-book/angular2-rxjs-chat/)
+* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
 
 
 ### Live Code Experiments
@@ -127,6 +142,8 @@
 
 ### Books
 * [ng-book 2 (Ari Lerner)](https://ng-book.com/2)
+* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2)
+* [Angular 2 in action](https://www.manning.com/books/angular-2-in-action)
 
 ### Tools
 * [Babel plugin for Angular @ annotations](https://github.com/shuhei/babel-plugin-angular2-at-annotation)
